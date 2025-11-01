@@ -87,11 +87,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Piyushkp06/Piyushkp06/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ⭐ **_“Turning ideas into intelligent systems, one line of code at a time.”_**
