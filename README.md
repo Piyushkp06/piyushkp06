@@ -12,7 +12,7 @@
 - 🎓 **Chemical Engineering Student** at **NIT Rourkela**
 - 🤖 Passionate about **Full Stack Development** ,**Artificial Intelligence** and **Machine Learning**
 - 💻 I love building **AI-powered tools**, **React apps**, and **Node backends**
-- 💬 Ask me about: `AI/ML`, `React`, `FastAPI`, `Deep Learning`, `Computer Vision`
+- 💬 Ask me about: `AI/ML`, `React`, `NodeJs`, `Machine Learning`
 - 📫 Reach me at: **pkpanda0612@gmail.com**
 - ⚡ Fun fact: I turn caffeine ☕ into clean code 🚀
 
