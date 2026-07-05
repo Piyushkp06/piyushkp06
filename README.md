@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Piyushkanta Panda</h1>
-<h3 align="center">AI/ML & Full-Stack Developer | 3nd Year @ NIT Rourkela</h3>
+<h3 align="center">AI/ML & Full-Stack Developer | Final Year @ NIT Rourkela</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyushkp06&label=Profile%20views&color=0e75b6&style=flat" alt="Piyushkp06" />
